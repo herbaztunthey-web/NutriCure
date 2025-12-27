@@ -23,5 +23,4 @@ NutriCure is a health-focused web application that provides deep insights into t
 ##   Install independencies
    pip install -r requirements.txt
 
-   USDA_API_KEY=WJT7dhVJzcqPT0lzXTPfvojuytrT31pZLGm2T0ZO
-   
+   USDA_API_KEY=USDA_API_KEY=your_key_here
